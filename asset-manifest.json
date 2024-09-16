@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.08c528cd.css",
+    "main.js": "/static/js/main.2f09449c.js",
+    "static/js/453.06c464ff.chunk.js": "/static/js/453.06c464ff.chunk.js",
+    "static/media/Zain-Bold.ttf": "/static/media/Zain-Bold.02381cc40bb999f1b381.ttf",
+    "static/media/Zain-Regular.ttf": "/static/media/Zain-Regular.70a4081462d9e9e2419a.ttf",
+    "static/media/Zain-Light.ttf": "/static/media/Zain-Light.214afb0826d8899d8318.ttf",
+    "index.html": "/index.html",
+    "main.08c528cd.css.map": "/static/css/main.08c528cd.css.map",
+    "main.2f09449c.js.map": "/static/js/main.2f09449c.js.map",
+    "453.06c464ff.chunk.js.map": "/static/js/453.06c464ff.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.08c528cd.css",
+    "static/js/main.2f09449c.js"
+  ]
+}
